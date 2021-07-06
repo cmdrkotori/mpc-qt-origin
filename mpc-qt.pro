@@ -13,6 +13,8 @@ TEMPLATE = app
 
 CONFIG += c++14
 
+error("Development has moved to https://github.com/mpc-qt/mpc-qt. Please update your scripts.")
+
 !isEmpty(MPCQT_VERSION) {
     message("Version provided on the commandline: $$MPCQT_VERSION")
     VERSTR = $$MPCQT_VERSION
