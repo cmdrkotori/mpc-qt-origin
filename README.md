@@ -1,3 +1,8 @@
+# Development has MOVED!
+
+We're now pushing commits to https://github.com/mpc-qt/mpc-qt. please
+update your scripts.
+
 ## Media Player Classic Qute Theater
 
 A clone of Media Player Classic reimplemented in Qt.
